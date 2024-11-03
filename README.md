@@ -1,6 +1,5 @@
 ```
-                        cryptowhisper
-                        [nk]
+                        cryptowhisper [nk]
 
 /stack
   java
