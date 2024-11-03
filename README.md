@@ -1,16 +1,22 @@
-## Hi there 👋
+```
+                        cryptowhisper
+                        [nk]
 
-<!--
-**cryptowhisper/cryptowhisper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+corrupting memory since [redacted]
 
-Here are some ideas to get you started:
+/stack
+  java
+  c++
+  typescript
+  react
+  
+/data
+  mysql
+  mongodb
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+/stats
+commits: [classified]
+contributions: [corrupted]
+
+"everything returns null in the end"
+```
