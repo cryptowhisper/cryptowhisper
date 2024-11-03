@@ -1,22 +1,22 @@
+<div align="center">
+
+# cryptowhisper `[nk]`
+
+![Profile Views](https://komarev.com/ghpvc/?username=cryptowhisper&color=2d2d2d&style=flat)
+
+```ts
+const stack = {
+    lang: ['java', 'c++', 'typescript'],
+    web: ['react'],
+    db: ['mysql', 'mongodb'],
+    status: 'debugging your nightmares'
+}
 ```
-                        cryptowhisper
-                        [nk]
 
-corrupting memory since [redacted]
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cryptowhisper&show_icons=true&theme=nord&hide_border=true&bg_color=00000000&hide_title=true"/>
 
-/stack
-  java
-  c++
-  typescript
-  react
-  
-/data
-  mysql
-  mongodb
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cryptowhisper&layout=compact&theme=nord&hide_border=true&bg_color=00000000)](https://github.com/cryptowhisper)
 
-/stats
-commits: [classified]
-contributions: [corrupted]
+> null is just the beginning of void
 
-"everything returns null in the end"
-```
+</div>
