@@ -2,8 +2,6 @@
                         cryptowhisper
                         [nk]
 
-corrupting memory since [redacted]
-
 /stack
   java
   c++
